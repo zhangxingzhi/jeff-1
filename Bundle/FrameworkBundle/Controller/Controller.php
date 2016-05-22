@@ -307,7 +307,7 @@ class Controller extends ContainerAware
     /**
      * Shortcut to return the request service.
      *
-     * @return Request
+     * @return Request啊
      *
      * @deprecated since version 2.4, to be removed in 3.0.
      *             Ask Symfony to inject the Request object into your controller
